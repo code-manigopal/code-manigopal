@@ -1,4 +1,4 @@
-### 👋 Kanaga Manikandan Gopal (Mani)
+### 🕴️ Kanaga Manikandan Gopal (Mani)
 
 Retail Ops Leader | Ex-Oracle | Business Data Analytics | DevOps, Cloud & AI | Future Data Analyst <br> 
 Bridging Business Operations Management with Technology
