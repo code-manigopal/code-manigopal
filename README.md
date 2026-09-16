@@ -7,7 +7,7 @@ Bridging Business Ops Management with Technology
 
 #### About Me
 
-I'm currently in a retail operations leadership role at Walmart Canada, having completed a Master of Management (Business Data Analytics) at the University of Windsor's Odette School of Business. Before this, I spent 6 years as a Java developer at Oracle India, working on Oracle Communications ECE (Enterprise Charging and Mediation) across the Solution Services and Retail units.
+I'm currently in a retail operations leadership role at Walmart Canada, having completed a Master of Management (Business Data Analytics) at the University of Windsor's Odette School of Business. Before this, I spent 6 years as a Java developer at Oracle India, working on Oracle Communications ECE (Telecom Enterprise Charging and Mediation) across the Solution Services and Retail units.
 
 That combination is my edge — I've run operations on the ground and built the systems behind them, and I'm now focused on turning that into data-driven decision-making.
 
