@@ -13,7 +13,7 @@ If you found this from my LinkedIn — thanks for stopping by. Scroll down for m
 
 I'm a retail and operations leader with 10+ years progressing from Store Associate to Store Manager, managing store operations, teams, and stock flow — paired with present experience at Walmart Canada as an Overnight Associate and a Master of Management (Business Data Analytics) from the University of Windsor's Odette School of Business.
 
-In between, I spent nearly 7 years at Oracle India as a Member of Technical Staff (Team Lead) on Oracle Communications ECE (Enterprise Charging and Mediation), analyzing billing and revenue data, building performance dashboards, and coordinating cross-functional teams through releases.
+In between, I spent nearly 7 years at Oracle India as a Member of Technical Staff (Team Lead) on Oracle Communications Elastic Charging Engine (Enterprise Telecom Charging and Mediation), analyzing billing and revenue data, building performance dashboards, and coordinating cross-functional teams through releases.
 
 I'm skilled at translating sales, inventory, and financial data into actionable decisions — supported by graduate coursework in international finance, accounting, and business analytics — and experienced organizing community events and leading volunteer initiatives.
 
