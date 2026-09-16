@@ -1,13 +1,13 @@
-### 🕴️ Kanaga Manikandan Gopal (Mani)
+### Kanaga Manikandan Gopal (Mani) 🏪💻⚙️☁️📊
 
-Retail Ops Leader | Ex-Oracle | Business Data Analytics | DevOps, Cloud & AI | Future Data Analyst <br> 
-Bridging Business Operations Management with Technology
+Retail Ops Leader | Ex-Oracle | Business Data Analytics | DevOps, Cloud & AI | Future Data Analyst <br>
+Bridging Business Ops Management with Technology
 
 ---
 
 #### About Me
 
-I'm currently in a retail operations leadership role at Walmart Canada, pursuing a Master of Management (Business Data Analytics) at the University of Windsor's Odette School of Business. Before this, I spent 6 years as a Java developer at Oracle India, working on Oracle Communications ECE (Enterprise Charging and Mediation) across the Solution Services and Retail units.
+I'm currently in a retail operations leadership role at Walmart Canada, having completed a Master of Management (Business Data Analytics) at the University of Windsor's Odette School of Business. Before this, I spent 6 years as a Java developer at Oracle India, working on Oracle Communications ECE (Enterprise Charging and Mediation) across the Solution Services and Retail units.
 
 That combination is my edge — I've run operations on the ground and built the systems behind them, and I'm now focused on turning that into data-driven decision-making.
 
@@ -56,5 +56,5 @@ HTML/CSS · Vanilla JS
 ---
 
 📍 Leamington, Ontario, Canada
-📧 kanamikagopal@gmail.com
+📧 kamanikagopal@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/kanagamanikandangopal)
