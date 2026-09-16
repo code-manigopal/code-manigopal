@@ -14,7 +14,7 @@ That combination is my edge — I've run operations on the ground and built the 
 My work spans:
 - Retail operations leadership — day-to-day ops management, translated into process and data thinking
 - DevOps automation — Kubernetes, Helm, Docker, CI/CD pipelines built from scratch with Jenkins
-- Backend and full-stack development — Java, Flask, Firebase
+- Backend and full-stack development — Java, Python, Flask, Firebase
 - Applied data analytics — regression modeling for business/economics questions
 - Side-project engineering — self-contained tools people actually use day to day
 
