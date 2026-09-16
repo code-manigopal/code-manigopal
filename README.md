@@ -87,7 +87,7 @@ Roles that combine hands-on operations experience with data-driven decision-maki
 
 #### 🔗 Connect
 
-LinkedIn: https://www.linkedin.com/in/kanagamanikandangopal
+<b>LinkedIn:</b> https://www.linkedin.com/in/kanagamanikandangopal
 
 📍 Leamington, Ontario, Canada
 📧 kamanikagopal@gmail.com
