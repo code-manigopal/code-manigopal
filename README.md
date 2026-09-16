@@ -19,7 +19,7 @@ My work includes:
 
 I focus on building practical, well-documented tools and translating operational and quantitative data into clear decisions.
 
-Long-term, I aim to move into a data analyst role that bridges the operations experience I already have with the analytics skills I've built.
+Long-term, I aim to move into a data analyst role that bridges the technical & operations experience I already have with the analytics skills I've built.
 
 ---
 
