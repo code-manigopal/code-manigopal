@@ -42,20 +42,20 @@ Long-term, I aim to move into a data analyst role that bridges the operations ex
 
 #### 🛠 Tech Stack
 
-**Programming**
-Java · Python · SQL
+**Programming:**
+ Java · Python · SQL · Linux Bash
 
-**DevOps & Cloud**
-Kubernetes · Helm · Docker · Jenkins CI/CD
+**DevOps & Cloud:**
+ Kubernetes · Helm · Docker · Jenkins CI/CD
 
-**Data & Analytics**
-Regression modeling · Data visualization
+**Data & Analytics:**
+ Regression modeling · Data visualization
 
-**Web/Backend**
-Flask · Firebase · HTML/CSS · Vanilla JS
+**Web/Backend:**
+ Flask · Firebase · HTML/CSS · Vanilla JS
 
-**Tools**
-Git · GitHub Pages
+**Tools:**
+ Git · GitHub Pages
 
 ---
 
