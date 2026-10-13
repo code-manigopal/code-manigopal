@@ -1,6 +1,6 @@
 ### 🚀 Kanaga Manikandan Gopal (Mani) 🏪💻⚙️☁️📊
 
-Manager, Software Engineering & Business Development at Scientiflow | Retail Ops Leader | Ex-Oracle Software Developer | Business Data Analytics | DevOps, Cloud & AI <br>
+Scientiflow | Retail Ops | Ex-Oracle S/W Developer | Business Data Analytics | DevOps, Cloud & AI <br>
 Bridging Business Operations & Management with Technology
 
 ---
